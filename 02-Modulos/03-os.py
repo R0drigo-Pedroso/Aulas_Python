@@ -3,7 +3,6 @@ import os
 # 1 - consultar funcionalidades do módulos OS
 # help('os')
 
-
 # 2 - Retornar a pasta atual
 print(os.getcwd())
 
